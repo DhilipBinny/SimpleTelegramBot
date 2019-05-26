@@ -18,3 +18,5 @@ acc_key = "<API_KEY_FOR_MIN_API>"
 Output:
 
 ![./telegram_bot_output.png](./telegram_bot_output.png)
+
+![./telegram_bot_output1.png](./telegram_bot_output1.png)
