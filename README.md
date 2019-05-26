@@ -6,7 +6,7 @@
 - Update your API_KEYS & TOKENS
 ```python
 TOKEN = "<TELEGRAM_BOT_TOKEN>"
-API_KEY = "<API_KEY_FOR_MIN_API>"
+acc_key = "<API_KEY_FOR_MIN_API>"
 ```
 
 - Reference for "<TELEGRAM_BOT_TOKEN>"
