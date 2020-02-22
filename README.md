@@ -17,11 +17,11 @@ acc_key = "<API_KEY_FOR_MIN_API>"
 
 Output:
 
-![./telegram_bot_output.png](./telegram_bot_output.png)
+![./telegram_bot_output.png](./telegram_bot_output.jpg)
 
-![./telegram_bot_output1.png](./telegram_bot_output1.png)
+![./telegram_bot_output1.png](./telegram_bot_output1.jpg)
 
-![./telegram_bot_output1.png](./telegram_bot_output2.png)
+![./telegram_bot_output1.png](./telegram_bot_output2.jpg)
 
 [![Watch the video](https://img.youtube.com/vi/6DBSEdOVnBU/maxresdefault.jpg)](https://youtu.be/6DBSEdOVnBU)
 
