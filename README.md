@@ -23,5 +23,5 @@ Output:
 
 ![./telegram_bot_output1.png](./telegram_bot_output2.jpg)
 
-[![Watch the video](https://img.youtube.com/vi/6DBSEdOVnBU/maxresdefault.jpg)](https://youtu.be/6DBSEdOVnBU)
+[![Watch the video](https://i9.ytimg.com/vi/6DBSEdOVnBU/mq3.jpg?sqp=CMWLxfIF&rs=AOn4CLDndCea39Fu74-L7lyh8G8tS2KfVQ)](https://youtu.be/6DBSEdOVnBU)
 
