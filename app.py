@@ -3,7 +3,7 @@ import requests
 import botogram
 from datetime import datetime
 
-TOKEN = '820551824:AAFKUsB7-oGw5ZNZQ1yb3bC0znem8RuphMU' #"enter your bot token here.. "
+TOKEN = "enter your bot token here.. "
 # get the token ...
 bot = botogram.create( TOKEN )
 
@@ -85,7 +85,7 @@ def getnextbus_command(chat, message, args):
 # **************************************************************************************************
 
 def getresult(bus_stop):
-    acc_key ='QpVNIQH4RNC01YkvDIrG8Q=='
+    acc_key ='DATAMALL API KEY'
     header = { 'AccountKey' : acc_key,
      'accept' : 'application/json'}
 
