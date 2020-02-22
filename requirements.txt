@@ -1,2 +1,4 @@
-python 3.6
-botogram
+gunicorn
+requests
+botogram==0.5
+python==3.7
